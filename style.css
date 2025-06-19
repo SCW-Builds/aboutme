@@ -2,15 +2,19 @@ h1 {
   background-color: #333446;
   padding: 5px;
   color: #b8cfce;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Inter", sans-serif;
 }
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
-.sum {
+.section-heading {
   background-color: #333446;
   padding: 5px;
   color: #b8cfce;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Inter", sans-serif;
   font-weight: normal;
+}
+
+.work {
+  font-size: 1em;
 }
