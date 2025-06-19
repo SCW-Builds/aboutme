@@ -1,1 +1,1 @@
-I built this website to showcase my resume and highlight my achievements as I continue learning to code.
+I developed this website to showcase my achievements and present my resume as I continue advancing my coding skills.
