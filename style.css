@@ -1,0 +1,16 @@
+h1 {
+  background-color: #333446;
+  padding: 5px;
+  color: #b8cfce;
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+.sum {
+  background-color: #333446;
+  padding: 5px;
+  color: #b8cfce;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: normal;
+}
