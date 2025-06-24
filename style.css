@@ -3,10 +3,17 @@ h1 {
   padding: 5px;
   color: #b8cfce;
   font-family: "Montserrat", sans-serif;
+  border: 2px solid #b8cfce;
+  text-align: center;
+  margin-bottom: 0px;
 }
 body {
   font-family: "Montserrat", sans-serif;
   font-weight: 440;
+  margin: 20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .section-heading {
   background-color: #333446;
@@ -14,8 +21,61 @@ body {
   color: #b8cfce;
   font-family: "Montserrat", sans-serif;
   font-weight: normal;
+  border: 2px solid #b8cfce;
+  text-align: center;
 }
 
 .work {
   font-size: 1em;
+}
+
+.profilepic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #b8cfce;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.name {
+  background-color: #333446;
+  border-left: 2px solid #b8cfce;
+  border-right: 2px solid #b8cfce;
+  text-align: center;
+  margin-top: 0px;
+}
+address {
+  text-align: center;
+}
+
+nav a {
+  color: #333446;
+  text-decoration: none; /* Remove underline */
+  padding: 5px;
+  background-color: #b8cfce;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+nav {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10x;
+  background-color: #333446;
+  padding: 5px;
+  margin-top: 0px;
+  border-left: 2px solid #b8cfce;
+  border-right: 2px solid #b8cfce;
+  border-bottom: 2px solid #b8cfce;
+  font-weight: 600;
+}
+nav a:hover {
+  background-color: #7bb8b4; /* Lighter background on hover */
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Soft shadow on hover */
 }
